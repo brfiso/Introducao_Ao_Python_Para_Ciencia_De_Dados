@@ -10,7 +10,7 @@ Para a turma, sugiro que o repositório seja baixado e depois importado no [Goog
 O arquivo diabetes.csv deverá estar na mesma pasta (diretório) que o arquivo 2_Analise_Diabetes.ipynb para o correto funcionamento.
 
 ## Contato
-Você podem entrar em contato comigo através do site (BFcode)[https://bfcode.com.br], onde disponibilizo artigos e informações que podem ser relevantes.
-Conheça, ainda, a minha empresa, a (BioDev Soluções Tencológicas)[https://biodev.com.br].
+Você podem entrar em contato comigo através do site [BFcode](https://bfcode.com.br) onde disponibilizo artigos e informações que podem ser relevantes.
+Conheça, ainda, a minha empresa, a [BioDev Soluções Tencológicas](https://biodev.com.br).
 
 
